@@ -1,6 +1,79 @@
-# 💫 About Me:
-💫 About Me 👇<br>👋 Hey there! I'm Sajeemthan 🤖<br>🎓 Aspiring Data Scientist | Machine Learning Enthusiast | IT Undergraduate<br><br>I'm a 2nd-year undergraduate at SLIIT studying BSc in Information Technology, set to specialize in Data Science in my 3rd year (Graduating in June 2027). I'm deeply passionate about using data to drive insights, build intelligent systems, and solve real-world problems with Machine Learning and AI. 📊🧠<br><br>🛠️ Tech Stack & Skills<br>💻 Languages: C, C++, Java, Python, PHP, JavaScript, HTML, CSS, R<br>📊 Data Tools & Libraries: NumPy, Pandas, Matplotlib (learning phase)<br>🌐 Frontend: HTML, CSS, React.js<br>⚙️ Backend: Express.js<br>🗄️ Databases: MongoDB<br>🧰 Tools: Git, Cloud & DevOps essentials<br>🪟 OS: Windows, Linux<br><br>🌱 Currently Learning<br>📌 Data Science Foundations<br>📌 Machine Learning Algorithms<br>📌 Cloud & DevOps Fundamentals<br>📌 Mathematics for Computing<br><br>💡 What I Do<br>✅ Analyze and Visualize Data 📈<br>✅ Learn and Build ML Models 🤖<br>✅ Explore Data-Driven Solutions 🧠<br>✅ Collaborate on Innovative Tech Projects 🚀<br><br>💬 Let's connect, learn, and build the future of tech with data! 🌐
+# 💫 About Me
 
+👋 Hey there! I'm Sajeemthan  
+
+🧠 Junior AI Engineer with hands-on industry experience  
+🎓 BSc (Hons) IT – Data Science @ SLIIT  
+
+I build **AI-powered systems** with a focus on Machine Learning, NLP, and real-world applications.  
+My work goes beyond models — I design **end-to-end solutions**, including backend systems, data pipelines, and intelligent applications.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 AI / Machine Learning
+- Python, scikit-learn, TensorFlow, PyTorch  
+- NLP: spaCy, NLTK  
+- Data Processing: Pandas, NumPy  
+
+### ⚙️ Backend & Systems
+- Flask, Node.js (Express)  
+- REST APIs, WebSocket-based systems  
+- MongoDB, MySQL  
+
+### 🌐 Frontend & Apps
+- React.js, HTML, CSS  
+- Android (Kotlin, XML)  
+
+### 🧰 Tools & Platforms
+- Git, Docker, Postman  
+- AWS (Basics), Cloud & DevOps fundamentals  
+
+---
+
+## 🚀 Featured Work
+
+### 🔹 AI-Powered Banking Chatbot
+- LLM-based chatbot with Flask + spaCy  
+- MongoDB integration for dynamic responses  
+- Real-time interaction system  
+
+### 🔹 Sentiment Analysis System
+- TF-IDF + Logistic Regression model  
+- Achieved 88% accuracy  
+- Focus on preprocessing and evaluation  
+
+### 🔹 PolyMart – EcoPlastics Platform
+- Full-stack MERN application  
+- Real-time features + Stripe integration  
+- Admin dashboard with analytics  
+
+### 🔹 WalletZen – Finance Tracker
+- Android app for budgeting and expense tracking  
+- Clean UI with financial insights  
+
+---
+
+## 📊 Current Focus
+
+- Scalable AI systems & LLM applications  
+- Geo-spatial data processing  
+- Production-level ML pipelines  
+- Backend integration for AI systems  
+
+---
+
+## 💡 What I Do
+
+- Build real-world AI systems  
+- Develop ML models for practical use  
+- Design backend systems for intelligent apps  
+- Work with data pipelines and APIs  
+
+---
+
+🚀 Focused on building impactful AI systems — not just learning them.
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)Sajeemthan Sriskantharasa [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajeesajeem2001@gmail.com) 
